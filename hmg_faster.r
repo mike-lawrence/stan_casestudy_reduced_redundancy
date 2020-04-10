@@ -157,7 +157,6 @@ ezStan::start_stan(
 		, 'coef'
 		, 'noise'
 	)
-	# , iter = 1e
 	, control = list(
 		max_treedepth = 12
 	)
