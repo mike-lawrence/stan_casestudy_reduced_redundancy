@@ -1,0 +1,1 @@
+# stan_casestudy_reduced_redundancy
