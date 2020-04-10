@@ -107,7 +107,7 @@ ezStan::stan_summary(
 	from_stan = post
 	, par = 'coef'
 	, W = W_full
-	, B = B
+	, B = B_full
 )
 
 #look at the sds
